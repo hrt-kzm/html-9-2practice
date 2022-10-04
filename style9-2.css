@@ -23,6 +23,7 @@ main {
   margin-right: 30px;
   padding: 10px;
 }
+
 .content-box:last-child {
   margin-right: 0;
 }
